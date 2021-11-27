@@ -1,0 +1,1636 @@
+db.getCollection('employeeAttendance').update({ "employeeCode": "1697"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:15:28.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1699"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:26:40.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1703"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 10:20:01.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1707"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:45:22.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1706"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:30:14.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1704"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:55:25.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1708"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 10:10:27.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1700"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:20:31.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1695"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:44:43.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1702"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:41:55.0",
+	"workFromHome" : true,
+	"WFHout" : "2021-11-26 14:09:31.0"
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1705"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 10:07:56.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1698"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:41:44.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1750"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 10:00:59.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1589"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:43:41.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "8043"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:48:23.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1207"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:23:53.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1552"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:30:29.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "6013"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:49:19.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1244"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:47:18.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1588"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:11:00.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1333"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:39:08.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1559"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:41:26.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1577"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:46:05.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1550"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:55:28.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1564"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:53:31.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1195"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 10:02:04.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "6012"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 10:05:54.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "6025"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:58:10.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "2060"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:48:56.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1544"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:00:40.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1217"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:59:05.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1568"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:13:50.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1587"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:06:06.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1239"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:34:24.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1586"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:56:46.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1495"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:32:28.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "9100"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 10:10:46.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1584"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:53:53.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1394"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:51:56.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1263"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:15:51.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "9110"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:13:04.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1701"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:23:07.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1696"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:12:56.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1590"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:22:29.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "2037"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:42:16.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1501"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 10:25:17.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1581"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:31:07.0",
+	"workFromHome" : true,
+	"in" : "2021-11-26 09:48:31.0",
+	"out" : "2021-11-26 09:48:31.0"
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1145"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 10:01:21.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "6008"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:24:24.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1494"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:18:24.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1009"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:50:37.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "2067"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:44:35.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1144"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:18:47.0",
+	"workFromHome" : true,
+	"WFHout" : "2021-11-26 15:17:50.0"
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1053"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:15:02.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1493"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:22:15.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1331"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:55:32.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1583"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:41:50.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1431"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 6:27:20.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "6018"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:29:29.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1490"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:43:17.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1543"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 10:04:55.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1593"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:22:43.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1464"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 10:12:24.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1534"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 12:22:26.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1325"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:30:49.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "7040"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:27:53.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1441"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:59:17.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1596"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:38:35.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "2003"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:34:55.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1450"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:30:19.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "2051"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:14:11.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1235"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:44:15.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1332"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:51:24.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1488"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 10:17:27.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "2027"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:36:00.0",
+	"workFromHome" : true,
+	"WFHout" : "2021-11-26 14:10:45.0"
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1599"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:30:37.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1594"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:27:20.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1029"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:34:24.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "2032"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:35:10.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "6028"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:57:29.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1508"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:17:26.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1600"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:34:39.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "2048"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:45:18.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1458"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:56:13.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1098"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:34:08.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1177"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:32:24.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1517"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:33:31.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "2049"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:39:25.0",
+	"workFromHome" : true,
+	"in" : "2021-11-26 10:36:38.0",
+	"out" : "2021-11-26 10:36:38.0"
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1572"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:16:00.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "5001"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:00:34.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1603"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:39:14.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1610"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 10:04:56.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1609"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:09:29.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1210"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"in" : "2021-11-26 09:29:32.0",
+	"out" : "2021-11-26 09:29:32.0",
+	"WFHin" : "2021-11-26 9:41:24.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "2050"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:50:00.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1138"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:47:15.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1611"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:49:20.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1592"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:28:51.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1515"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:30:36.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "5005"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:45:32.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1520"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:17:06.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1328"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:20:02.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1513"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:30:27.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1602"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:53:20.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1612"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:23:29.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1073"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:20:50.0",
+	"workFromHome" : true,
+	"in" : "2021-11-26 10:04:51.0",
+	"out" : "2021-11-26 10:04:51.0"
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "6006"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:36:44.0",
+	"workFromHome" : true,
+	"in" : "2021-11-26 10:00:05.0",
+	"out" : "2021-11-26 10:00:05.0"
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1608"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 10:10:50.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "8026"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:00:48.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1460"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:25:39.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1518"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:33:51.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1514"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:31:31.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1525"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:19:10.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1509"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:32:54.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1516"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:43:09.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1614"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:50:15.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1524"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:28:24.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1511"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:50:24.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1379"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:14:43.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "2004"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:38:10.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "6010"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 10:01:14.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1497"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:54:38.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1296"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:37:48.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1619"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:27:20.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1658"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:32:16.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1481"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:54:04.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1638"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:05:03.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1646"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 10:08:20.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1630"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:39:23.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1622"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:34:55.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1649"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:21:44.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1657"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:40:46.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1673"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 10:22:52.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1647"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 10:06:03.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1601"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 13:26:49.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1634"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:46:00.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1651"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:44:21.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1640"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:44:06.0",
+	"workFromHome" : true,
+	"WFHout" : "2021-11-26 15:51:08.0"
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1573"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:31:45.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1623"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:57:02.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1681"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:05:10.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1654"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:20:10.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1669"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 10:01:17.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1412"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:55:16.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1662"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 10:20:50.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1665"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:52:31.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1427"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 13:40:12.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1670"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:34:18.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1650"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 10:13:02.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1648"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:33:18.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1675"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:00:39.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1680"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:01:58.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1678"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:07:03.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1685"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:20:56.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1684"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 8:30:28.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1605"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:56:12.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1687"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:08:03.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1689"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:21:03.0",
+	"workFromHome" : true,
+	"WFHout" : "2021-11-26 14:36:26.0"
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "8021"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:27:21.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1661"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:57:57.0",
+	"workFromHome" : true
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1691"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:24:40.0",
+	"workFromHome" : true,
+	"WFHout" : "2021-11-26 15:17:03.0"
+}
+}
+});
+db.getCollection('employeeAttendance').update({ "employeeCode": "1690"},
+    {
+        "$push": {"attendanceDetails" : {
+	"date" : ISODate("2021-11-26T00:00:00.000Z"),
+	"transactionData" : "",
+	"WFHin" : "2021-11-26 9:29:58.0",
+	"workFromHome" : true
+}
+}
+});
